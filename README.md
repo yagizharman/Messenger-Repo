@@ -38,7 +38,7 @@ git clone https://github.com/yagizharman/Messenger-Repo.git
 ```shell
 npm i
 ```
-
+### Setup .env file
 ```js
 DATABASE_URL=
 
