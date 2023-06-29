@@ -39,6 +39,17 @@ git clone https://github.com/yagizharman/Messenger-Repo.git
 npm i
 ```
 
+```js
+DATABASE_URL=
+
+```
+
+### Setup Prisma
+
+```shell
+npx prisma db push
+
+```
 
 ### Start the app
 
