@@ -37,6 +37,7 @@ git clone https://github.com/yagizharman/Messenger-Repo.git
 ```shell
 npm i
 ```
+Create an .env in the root directory and set it up like down below.
 ### Setup .env file
 ```js
 DATABASE_URL=
@@ -50,6 +51,10 @@ GOOGLE_CLIENT_ID=
 GOOGLE_CLIENT_SECRET=
 
 NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME=
+
+NEXT_PUBLIC_PUSHER_APP_KEY=
+PUSHER_APP_ID=
+PUSHER_SECRET=
 ```
 
 ### Setup Prisma
