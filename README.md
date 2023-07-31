@@ -1,8 +1,8 @@
-# Real-Time Messenger App: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher (2023)
+# Real-Time Messenger App: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher
 
-This is a repository for a Real-Time Messenger App: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher.
+This is a repository i created while building a Real-Time Messenger App using Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher.
 
-This repository houses a comprehensive project for creating a Real-Time Messenger clone using a powerful tech stack. With Next.js 13, React, Tailwind CSS, Prisma, MongoDB, NextAuth, and Pusher at its core, this project enables you to build a feature-rich and visually appealing chat application.
+It is live at : messenger-repo.vercel.app 
 
 Key Features:
 
