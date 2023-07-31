@@ -2,7 +2,7 @@
 
 This is a repository i created while building a Real-Time Messenger App using Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher.
 
-It is live at : messenger-repo.vercel.app 
+It is live at : [messenger-repo.vercel.app ](https://messenger-repo.vercel.app/)
 
 Key Features:
 
